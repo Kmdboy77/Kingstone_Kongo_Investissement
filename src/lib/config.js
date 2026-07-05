@@ -1,7 +1,7 @@
 export const SUPABASE_URL = import.meta.env.VITE_SUPABASE_URL || "https://inwycdkjipsactpjvekj.supabase.co";
 export const SUPABASE_ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY || "sb_publishable__Fe8j8KX8dabwd-EFNNLeA_5zjo5wRV";
 export const STRIPE_PK = import.meta.env.VITE_STRIPE_PUBLIC_KEY || "pk_test_your_stripe_key";
-export const SITE1_URL = import.meta.env.VITE_SITE1_URL || "http://localhost:5175/";
+export const SITE1_URL = import.meta.env.VITE_SITE1_URL || "https://kingstonekongoofficialwebsite.netlify.app/";
 export const CONTACT_EMAIL = "Africakingstone.ndp@gmail.com";
 
 // Montant minimum pour une contribution "standard" (hors Fonds Général qui est le point d'entrée obligatoire).
